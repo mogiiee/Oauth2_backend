@@ -25,4 +25,5 @@ archive.zip
 *~
 .*.sw?
 fastapienv/
+virtualenv
 .env
